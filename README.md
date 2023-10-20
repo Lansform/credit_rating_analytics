@@ -1,9 +1,5 @@
 # Analyzing borrowers’ risk of defaulting
 
-Chukwuemeka Okoli <br>
-Practicum by Yandex Project 1 <br>
-April 2, 2021 
-
 **Project description** <br>
 Your project is to prepare a report for a bank’s loan division. You’ll need to find out if a customer’s marital status and number of children have an impact on whether they will default on a loan. The bank already has some data on customers’ credit worthiness.
 
